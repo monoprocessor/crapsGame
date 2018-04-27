@@ -1,2 +1,1 @@
-# crapsGame
-Python Craps Game
+# A game of Craps
